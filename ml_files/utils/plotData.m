@@ -15,19 +15,19 @@
 % Data is loaded, processed and then plotted
 
 %% Init
-addpath(genpath('D:\dev\biomedical-signal-research\matlab_files\scidata_phase1\utils'))
+addpath(genpath('D:\24phd7039\biomedical-research\matlab_files\scidata_phase1\utils'))
 
 %% Options
 %%%% Choose Subject-ID(s) 
-IDrange = 01; % GDN00XX - simply choose numbers or ranges from 01 to 30
+IDrange = 03; % GDN00XX - simply choose numbers or ranges from 01 to 30
 
 %%%% Choose scnerio(s) 
 % possible scenarios are {'Resting' 'Valsalva' 'Apnea' 'TiltUp' 'TiltDown'}
-scenarios = {'Test'};
+scenarios = {'Resting'};
 
 %%%% Set path to datasets 
 % Datasets can be found on figshare
-path = 'D:\dev\biomedical-signal-research\matlab_files\scidata_phase1\datasets'; % In this case "datasets" folder is in this scripts folder 
+path = 'D:\24phd7039\biomedical-research\ml_files\utils\plot_folder' % 'D:\24phd7039\biomedical-research\datasets\mat_files\datasets_subject_01_to_10_scidata' ; % In this case "datasets" folder is in this scripts folder 
 
 scrsz = get(groot,'ScreenSize'); % For plotting
 %% Extract and plot the data

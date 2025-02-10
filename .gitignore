@@ -1,15 +1,10 @@
 
 /datasets/csv_files/datasets_subject_01_to_10_scidata/GDN0001
-/datasets
-/matlab_files
 ml_files/models/tempCodeRunnerFile.py
 .vscode/tasks.json
 ml_files/models/__pycache__/bilstm.cpython-311.pyc
 datasets.zip
 ml_files/main_files/tempCodeRunnerFile.py
-ml_files/models/lstm/lstm_model.pth
-ml_files/models/lstm/lstm_model_architecture
-ml_files/models/lstm/lstm_model_architecture.png
 ml_files/models/lstm/predicted_vs_actual.csv
 ml_files/models/lstm/wandb/run-20250119_112359-6ikj47if/files/output.log
 ml_files/models/lstm/wandb/run-20250119_112359-6ikj47if/files/requirements.txt
@@ -121,7 +116,6 @@ ml_files/models/lstm/wandb/run-20250120_091045-aqn6yfjq/files/wandb-metadata.jso
 ml_files/models/lstm/wandb/run-20250120_091045-aqn6yfjq/logs/debug-internal.log
 ml_files/models/lstm/wandb/run-20250120_091045-aqn6yfjq/logs/debug.log
 ml_files/models/lstm/wandb/run-20250120_091045-aqn6yfjq/run-aqn6yfjq.wandb
-ml_files/models/resunet/resunet.ipynb
 ml_files/models/resunet/wandb/run-20250119_161631-ndmfm2mw/files/output.log
 ml_files/models/resunet/wandb/run-20250119_161631-ndmfm2mw/files/requirements.txt
 ml_files/models/resunet/wandb/run-20250119_161631-ndmfm2mw/files/wandb-metadata.json

@@ -27,7 +27,7 @@ scenarios = {'Resting'};
 
 %%%% Set path to datasets 
 % Datasets can be found on figshare
-path = 'D:\24phd7039\biomedical-research\ml_files\utils\plot_folder' % 'D:\24phd7039\biomedical-research\datasets\mat_files\datasets_subject_01_to_10_scidata' ; % In this case "datasets" folder is in this scripts folder 
+path = 'D:\24phd7039\biomedical-research\datasets\mat_files\datasets_subject_01_to_10_scidata' ; %'D:\24phd7039\biomedical-research\ml_files\utils\plot_folder'% In this case "datasets" folder is in this scripts folder 
 
 scrsz = get(groot,'ScreenSize'); % For plotting
 %% Extract and plot the data

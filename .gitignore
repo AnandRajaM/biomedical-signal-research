@@ -142,3 +142,6 @@ ml_files/models/resunet/wandb/run-20250119_163830-nv4m191y/logs/debug.log
 ml_files/models/resunet/wandb/run-20250119_164208-9287cmo7/logs/debug.log
 ml_files/preprocess/__pycache__/prep.cpython-312.pyc
 ml_files/preprocess/__pycache__/preprocess.cpython-312.pyc
+/ml_files/models/resunet/wandb
+/ml_files/models/unetr/lightning_logs
+/ml_files/models/unetr/wandb

@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 
-input_base_path = r'csv_files'
-output_base_path = r'normalized.csv'
+input_base_path = r'D:\24phd7039\biomedical-research\datasets\csv_files'
+output_base_path = r'D:\24phd7039\biomedical-research\datasets\normalized_csv'
 
 def normalize_data(df):
     return (df - df.mean()) / df.std()
